@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "website": "https://dalle-clone-mike-rambil.vercel.app/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
